@@ -1,0 +1,13 @@
+CREATE TABLE authors(
+id SERIAL PRIMARY KEY ,
+name VARCHAR(100) NOT NULL,
+email VARCHAR(50) UNIQUE NOT NULL
+);
+
+CREATE TABLE posts(
+id SERIAL PRIMARY KEY,
+heading VARCHAR(255) NOT NULL,
+content TEXT NOT NULL,
+author_id INT,
+FOREIGN KEY(author_id) REFERENCES authors(id)
+);
