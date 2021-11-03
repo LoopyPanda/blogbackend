@@ -1,0 +1,29 @@
+[
+    {
+      "id": 2,
+      "name": "The sprush Craft",
+      "email": "sprushcraft123@gmail.com",
+      "heading": "Beginners to Make Small Art",
+      "content": "1) You do not need a big space to paint small. Work at your kitchen table or in a chair on a couch with a lap desk.\r\n2) Painting small allows you to finish sooner than you would with large pieces, so if you are propelled to keep going via accomplishment that is a plus.\r\n3) Small paintings require less paint and paper, so if your budget is tight, you will get more art from limited supplies.\r\n4) You will spent weeks of work on a large painting, and it is just not singing your song? It is hard to throw in the towel and start over because you will put so much time (and paint) into it. On a 5×7 that is just not flying, cut it up into bookmarks for your friends, and begin again.\r\n5) Storing ten large paintings vs ten 5×7s the need for garage shelving vs a folder in your studio file cabinet.",
+      "author_id": 1,
+      "image": "image1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Desirée",
+      "email": "desiree@gmail.com",
+      "heading": "Tips For Choosing The Perfect Artwork For Your Home",
+      "content": "1) Consider your budget\r\n2)Think about personal taste\r\n3)Work with the existing or potential style of the room\r\n4)Take walls and furniture into account\r\n5)Enhance or rearrange existing artwork",
+      "author_id": 2,
+      "image": "image2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tim the Traveler",
+      "email": "dontwriteme@email.com",
+      "heading": "The Great Calusa Blueway",
+      "content": "Mound Key is the first stop on my 100-mile-long journey following the tracks of the Calusa for a week.\r\nToday the small island made out of tons of shells is a state park, \r\nroughly one kilometer long, that you can only reach from the water. \r\nand I started with our sea kayaks in the morning on the Estero River.\r\nAfter a short stretch on the river we were reaching the Estero Bay, \r\nfrom the Gulf of Mexico through a series of narrow barrier islands. \r\nIt is sunny and windy, making it difficult for us to keep the course.",
+      "author_id": 3,
+      "image": "image3.jpg"
+    }
+  ]
